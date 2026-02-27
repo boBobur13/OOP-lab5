@@ -5,6 +5,9 @@
 3. BoardingPass is created inside flight constructor.
 4. If Flight is deleted , boardingPass is also gone.
 5. display() shows all info.
+
+
+
 #Problem2
 1.SmartDevice can exist alone -> Aggregation.
 2. Hub<T> can hold any type of device -> Generic.
