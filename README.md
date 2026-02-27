@@ -6,12 +6,12 @@
 4. If Flight is deleted , boardingPass is also gone.
 5. display() shows all info.
 
-
-
 #Problem2
 1.SmartDevice can exist alone -> Aggregation.
 2. Hub<T> can hold any type of device -> Generic.
 3. storeDevice() adds device to hub
 4. getDevice() returns the device.
 5. statusReport() prints info.
+
 #Problem3
+Professor and Book remain independent, interacting only through LibrarySystem.checkout() method. There is no ownership between them.
